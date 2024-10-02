@@ -1,2 +1,2 @@
-main: main.c
-	cc main.c -o main -lraylib -lm
+main: main.c *.c *.h
+	cc *.c  -o main -lraylib -lm

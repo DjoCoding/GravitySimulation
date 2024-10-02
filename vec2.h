@@ -2,6 +2,7 @@
 #define VEC2_H
 
 #include <assert.h>
+#include "math.h"
 
 typedef struct {
     float x, y;
