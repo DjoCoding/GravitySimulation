@@ -193,7 +193,7 @@ Object objects[4] = {
     },
     {
         .c = { 7* WINDOW_WIDTH / 10, WINDOW_HEIGHT / 2 },            // Initial position within the window
-        .speed = { -20.0f, 20.0f },         // Moving diagonally
+        .speed = { 0.0f, 20.0f },         // Moving diagonally
         .acc = { 0.0f, 0.0f },              // No acceleration
         .mass = 1,                          // Smaller mass
         .radius = 15.0f,                     // Medium radius
