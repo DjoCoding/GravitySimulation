@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.packl": "nim",
+        "*.pasm": "asm",
+        "vec2.h": "c",
+        "random": "c",
+        "object.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
